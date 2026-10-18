@@ -1,0 +1,6 @@
+landcover_ai/
+checkpoints/
+outputs/
+__pycache__/
+*.pth
+archive*
